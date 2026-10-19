@@ -6,7 +6,7 @@ This policy explains what data Slagmarken: Hidden Ranks ("the game") collects, w
 
 **Who is responsible for your data**
 Ejnar Games (sole proprietorship), CVR 42350915, Møldrupvej 1E, 8752 Østbirk, Denmark.
-Contact: jannikejnar@gmail.com
+Contact: slagmarken.games@gmail.com
 
 ## What we collect and why
 
@@ -42,7 +42,7 @@ If any of these transfers data outside the EU/EEA, it is covered by the EU's app
 ## Your rights
 You can ask to see, correct, export or delete your data, object to processing based on legitimate interest, and withdraw consent at any time.
 - **Delete your account** directly in the game: Settings → Delete my account. This deletes your account and progress from our server. Purchases stay with your Apple, Google or Steam account and can be restored if you create a new account.
-- For anything else, email jannikejnar@gmail.com. We answer within 30 days.
+- For anything else, email slagmarken.games@gmail.com. We answer within 30 days.
 - You can complain to the Danish Data Protection Agency (Datatilsynet), www.datatilsynet.dk.
 
 ## Children

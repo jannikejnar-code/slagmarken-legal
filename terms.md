@@ -2,7 +2,7 @@
 
 _Last updated: 18 October 2026_
 
-These terms apply when you play Slagmarken: Hidden Ranks ("the game"), made by Ejnar Games, CVR 42350915, Møldrupvej 1E, 8752 Østbirk, Denmark ("we"). Contact: jannikejnar@gmail.com.
+These terms apply when you play Slagmarken: Hidden Ranks ("the game"), made by Ejnar Games, CVR 42350915, Møldrupvej 1E, 8752 Østbirk, Denmark ("we"). Contact: slagmarken.games@gmail.com.
 
 ## 1. The game
 The game is free to download. The free version includes the starter units, Thorin's campaign chapters 1–4, battles against the computer and online play. The one-time purchase "Full game" unlocks all other units, campaigns and content described in the store, including content we later add for full-game owners.
