@@ -5,3 +5,7 @@ Contact: slagmarken.games@gmail.com
 
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
+
+# Cowboy Duel
+
+- [Privacy Policy](cowboy-duel-privacy)
