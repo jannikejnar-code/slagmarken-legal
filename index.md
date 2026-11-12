@@ -5,3 +5,7 @@ Contact: slagmarken.games@gmail.com
 
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
+
+# Funny Drunk
+
+- [Privacy Policy](funny-drunk-privacy)
